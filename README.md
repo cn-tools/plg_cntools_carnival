@@ -1,2 +1,2 @@
-plg_carnival
+plg_cntools_carnival
 ============
